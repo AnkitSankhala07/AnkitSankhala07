@@ -1,36 +1,5 @@
 ## Hello I'm Ankit Sankhala👋
-      
-<!--
-**AnkitSankhala07/🔭 I’m currently working on  
-• SaaS-based web applications  
-• AI-integrated full-stack projects  
-• Improving scalable backend architecture  
-
-👯 I’m looking to collaborate on  
-• Open-source React & Node.js projects  
-• SaaS startups & productivity tools  
-• Innovative AI-powered web apps  
-
-🤝 I’m looking for help with  
-• Advanced System Design  
-• Cloud deployment & DevOps (AWS)  
-• Microservices architecture  
-
-🌱 I’m currently learning  
-• Advanced Backend Engineering  
-• Cloud Computing & Deployment  
-• AI integrations in web applications  
-
-💬 Ask me about  
-• Full-Stack Development  
-• React & Node.js  
-• Building real-world projects  
-• SaaS product architecture  
-
-⚡ Fun fact  
-• I turn coffee ☕ into scalable web apps 🚀  
-• I love building complete projects from scratchAnkitSankhala07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
+    # 💫 About Me:
 🔭 I’m currently working on  <br>• SaaS-based web applications  <br>• AI-integrated full-stack projects  <br>• Improving scalable backend architecture  <br><br>👯 I’m looking to collaborate on  <br>• Open-source React & Node.js projects  <br>• SaaS startups & productivity tools  <br>• Innovative AI-powered web apps  <br><br>🤝 I’m looking for help with  <br>• Advanced System Design   <br>• Microservices architecture  <br><br>🌱 I’m currently learning  <br>• Advanced Backend Engineering  <br>• AI integrations in web applications  <br><br>💬 Ask me about  <br>• Full-Stack Development  <br>• React, MongoDB, Express.JS & Node.js  <br>• Building real-world projects  <br>• SaaS product architecture  <br><br>⚡ Fun fact  <br>• I turn coffee ☕ into scalable web apps 🚀  <br>• I love building complete projects from scratch
 
 
@@ -51,14 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=AnkitSankhala07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

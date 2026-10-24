@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ankit Sankhala
 
-### 💻 QA Automation | Full-Stack Developer | Python & JavaScript
+### 💻 Full-Stack Developer | Python & JavaScript | QA Automation 
 
 I'm a **Computer Science & Design undergraduate** interested in **QA Automation, software testing, and full-stack web development**.
 
@@ -11,7 +11,7 @@ I enjoy building applications, testing real-world workflows, finding bugs, and i
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech Computer Science & Design student
-* 🧪 Interested in **QA Automation & Software Testing**
+* 🧪 Interested in **Full-Stack Developer | Python & JavaScript | QA Automation & Software Testing**
 * 🐍 Strong foundation in **Python & OOP**
 * 🌐 Hands-on experience with **React.js, Node.js, Express.js & Django**
 * 🔍 Interested in **Functional, Regression & API Testing**
